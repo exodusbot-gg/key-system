@@ -1,8 +1,4 @@
 {
-  "c2d8e297108f344a7fdae18f407ecd619a976827b22da24c9b892477f4afec64": {
-    "type": "day",
-    "expiration": "2024-12-14T21:00:00.071Z"
-  },
   "69f9ca8a94da9faed993f6e7e71cbdb70b1a7b88862e9fdf5d52eb7ccd7ad1de": {
     "type": "dev",
     "expiration": "lifetime"
