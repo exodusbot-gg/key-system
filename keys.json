@@ -6,5 +6,9 @@
   "69f9ca8a94da9faed993f6e7e71cbdb70b1a7b88862e9fdf5d52eb7ccd7ad1de": {
     "type": "dev",
     "expiration": "lifetime"
+  },
+  "d1e68e39d1b3714bda6be192d574bdb8691feebcb6bf82323e9bfa8fef54c9d4": {
+    "type": "month",
+    "expiration": "2025-01-12T21:20:49.688Z"
   }
 }
