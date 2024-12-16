@@ -10,9 +10,5 @@
   "99852a5f882aa58081e29404b28ab4f089d6977786ea15e39545cf14a1879863": {
     "type": "day",
     "expiration": "2024-12-17T19:36:30.247Z"
-  },
-  "d4918b91f127941d88621396b7c55933ad00d9d08050725cbe2afb6f667be4b8": {
-    "type": "hour",
-    "expiration": null
   }
 }
