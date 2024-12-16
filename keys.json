@@ -7,5 +7,9 @@
   "59d7067241944400b896d5bfbe60e07bc48abe79bea3e423a743b8e1fff26e15": {
     "type": "key",
     "expiration": null
+  },
+  "d08826aa5bf36f21ce687a6b69d80172dcaecf322f17985788e553886b18fe07": {
+    "type": "day",
+    "expiration": "2024-12-17T21:40:06.829Z"
   }
 }
