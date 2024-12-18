@@ -23,6 +23,8 @@
     "type": "week"
   },
   "5f24fcac8179a5541bf94d62b913a5d249e00f068939326b33f3a27e1879b045": {
-    "type": "day"
+    "type": "day",
+    "accountId": "7065::11481::40819",
+    "expiration": "2024-12-19T08:56:37.908Z"
   }
 }
