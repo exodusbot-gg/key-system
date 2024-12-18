@@ -4,7 +4,6 @@
     "expiration": "2024-12-23T22:09:15.143Z"
   },
   "7d13277d71b8fb80b6939ce95aa5eb8ab704773bf21cb8c583efaad893d68f95": {
-    "type": "week",
-    "expiration": "2024-12-25T00:23:27.302Z"
+    "type": "week"
   }
 }
