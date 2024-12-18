@@ -12,10 +12,5 @@
     "type": "dev",
     "accountId": "7065::11481::40819",
     "expiration": "lifetime"
-  },
-  "efe4efeee3732759a01904cc219ac474107b48042f476136150f98b882ab0c71": {
-    "type": "month",
-    "accountId": "554::4280::14926",
-    "expiration": "2023-01-17T07:22:09.514Z"
   }
 }
