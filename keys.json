@@ -23,6 +23,8 @@
     "type": "week"
   },
   "2f860a5256ef8997afc87ff50616edee4eccf78c504650bc5c215adcb9d5d8a1": {
-    "type": "month"
+    "type": "month",
+    "accountId": "7065::11481::40819",
+    "expiration": "2025-01-17T08:58:49.544Z"
   }
 }
