@@ -13,9 +13,6 @@
     "accountId": "7065::11481::40819",
     "expiration": "lifetime"
   },
-  "c95ca26fc0882cf89ac9e96cf5a30c2a8ea73bb2f2567f823a34a9d53ba2b728": {
-    "type": "year"
-  },
   "0edc5d543bb2927d190e2afda09addf987acee90a4302c1d608955c8bd0751ca": {
     "type": "lifetime"
   }
