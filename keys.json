@@ -7,5 +7,8 @@
     "type": "year",
     "accountId": "7065::11481::40819",
     "expiration": "2025-12-18T02:03:54.509Z"
+  },
+  "8db29490787b33773bb4f4ed4401fea713d20d4cb2675bf0008ca6abf5ab491a": {
+    "type": "day"
   }
 }
