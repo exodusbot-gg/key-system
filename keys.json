@@ -2,5 +2,8 @@
   "43ff560802996e1a8311ea7830a67516340a9bbc77672eea764303a5d4f93079": {
     "type": "week",
     "expiration": "2024-12-23T22:09:15.143Z"
+  },
+  "dc523866dadd9b3dffe0638b010b25dc2b3e730714e0f55b50cb2cf0613358e1": {
+    "type": "year"
   }
 }
