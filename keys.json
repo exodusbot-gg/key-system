@@ -9,6 +9,8 @@
     "expiration": "2024-12-19T02:08:39.836Z"
   },
   "79aa2d6d46afb239c3b686e04e0e1bd2d9798a001dc2d7f9dcc4d87e3410ab93": {
-    "type": "dev"
+    "type": "dev",
+    "accountId": "7065::11481::40819",
+    "expiration": "lifetime"
   }
 }
