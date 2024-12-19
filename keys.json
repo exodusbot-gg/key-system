@@ -14,5 +14,8 @@
     "accountId": "7065::11481::40819",
     "expiration": "2024-12-20T01:44:56.493Z",
     "ip": "40.40.40.40"
+  },
+  "beefa7d23f4419b2f1d02eaadbc73be4cd34dd804671d8b5f510af220ebe6a39": {
+    "type": "day"
   }
 }
