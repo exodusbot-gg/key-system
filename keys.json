@@ -34,5 +34,8 @@
     "type": "day",
     "accountId": "1399::31935::111568",
     "expiration": "2024-12-20T02:39:23.670Z"
+  },
+  "610f8cd9f962b4eac1792a3b37ed5b5fed5a6858054d2c6b20a9a7d419b23256": {
+    "type": "day"
   }
 }
