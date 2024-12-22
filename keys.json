@@ -5,11 +5,5 @@
   },
   "4e70687b0c768fa832adfb6c306610e74784407d346e999953ded136e69e027b": {
     "type": "day"
-  },
-  "ed30f16572524716d28890a7e641b809026eab3953cd2a4521bcfc166c6c1da8": {
-    "type": "dev",
-    "accountId": "14066::33758::100053",
-    "expiration": "lifetime",
-    "ip": "70"
   }
 }
